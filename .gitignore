@@ -1,0 +1,9 @@
+# Directories
+.idea
+images
+
+# Useless files
+*.pyc
+resources.py
+images.qrc
+
