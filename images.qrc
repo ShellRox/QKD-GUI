@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/images">
+    <file alias="qkdback.png">images/qkdback.png</file>
+    <file alias="otp.png">images/otp.png</file>
+    <file alias="e91.png">images/e91.png</file>
+    <file alias="bb84.png">images/bb84.png</file>
+  </qresource>
+</RCC>
